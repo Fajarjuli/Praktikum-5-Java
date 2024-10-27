@@ -1,4 +1,4 @@
-# Pemrograman Orientasi Object praktikum2
+# Pemrograman Orientasi Object praktikum5
 
 ## Latihan 1
 ![](screenshot/soal1.png)
